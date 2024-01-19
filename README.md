@@ -9,6 +9,3 @@ Enthusiastic and highly  motivated Full Stack Developer with a passion for creat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HEMALATHA01492&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HEMALATHA01492&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HEMALATHA01492&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
